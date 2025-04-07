@@ -14,16 +14,18 @@
 - 🛠️ Git & GitHub
 
 ---
-### 📊 GitHub Stats:
+
+### 📫 Let's Connect:
+- ✉️ Email: 
+- 🌐 Portfolio:
+- 🧑‍💻 LinkedIn:
+
+- ### 📊 GitHub Stats:
 
 ![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-rafi-3&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rafi-3&layout=compact&theme=radical)
 
 ---
 
-### 📫 Let's Connect:
-- ✉️ Email: 
-- 🌐 Portfolio:
-- 🧑‍💻 LinkedIn: 
 
 
