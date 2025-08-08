@@ -86,11 +86,11 @@ const Rafi = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-rafi-3&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=mdrafiislam&theme=tokyonight" width="48%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-rafi-3&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrafiislam&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rafi-3&theme=tokyo-night&area=true" />
 </p>
 
 ---
