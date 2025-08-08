@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+I'm+Md.+Rafi+Islam;MERN+Stack+Web+Developer;React+Enthusiast;Passionate+about+learning+and+building+projects&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-link.com/banner.png](https://i.ibb.co.com/B2GGsdpc/Black-and-White-Simple-Name-Linked-In-Article-Cover-Image.png" alt="Banner" width="100%" />
+</p>
+
 <!-- ✨ Name & Designation -->
 
 
