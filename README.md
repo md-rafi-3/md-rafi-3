@@ -81,13 +81,16 @@ const Rafi = {
 </p>
 
 ---
+<p align="center">
+  <img width="60%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=md-rafi-3&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-rafi-3&show_icons=true&theme=tokyonight" width="48%" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=md-rafi-3&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+
 
 </p>
 
