@@ -74,9 +74,9 @@ const Rafi = {
 ## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:rafiislam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mdrafiislam"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mdrafiislam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mdrafiislam9411@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/md-rafi-3/md-rafi-3"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-rafi-islam313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://rafi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -86,7 +86,7 @@ const Rafi = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdrafiislam&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrafiislam&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mdrafiislam&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
