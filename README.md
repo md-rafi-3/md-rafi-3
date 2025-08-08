@@ -16,13 +16,16 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate MERN Stack Developer from Dhaka, Bangladesh.  
-I love to design modern, responsive, and user-friendly web interfaces.  
-Always eager to learn new technologies and improve myself through real-world projects.  
-Looking for exciting opportunities to grow and contribute.
-
----
-
+```js
+const Rafi = {
+  fullName: "Md. Rafi Islam",
+  location: "Dhaka, Bangladesh",
+  role: "MERN Stack Web Developer",
+  learning: ["React", "MongoDB", "Node.js", "Firebase", "Full-stack development"],
+  goals: "To become a skilled full-stack developer and work on impactful remote projects",
+  funFact: "I love solving problems and continuously upgrading my skills!"
+}
+```
 ## 🔭 Current Activities
 
 - 🚀 Exploring **Next.js** and **Server Components**
