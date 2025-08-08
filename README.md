@@ -1,11 +1,10 @@
 <!-- 🌐 Banner Image -->
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋+I'm+Md.+Rafi+Islam;MERN+Stack+Web+Developer;React+Enthusiast;Passionate+about+learning+and+building+projects&center=true&width=500&height=45&color=00ADB5&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <!-- ✨ Name & Designation -->
-<h1 align="center">Hi, I'm Md. Rafi Islam</h1>
-<h3 align="center">MERN Stack Web Developer | React Enthusiast | Full Stack Learner</h3>
+
 
 ---
 
