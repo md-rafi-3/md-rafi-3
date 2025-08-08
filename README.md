@@ -85,7 +85,7 @@ const Rafi = {
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrafiislam&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-rafi-3&show_icons=true&theme=tokyonight" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=mdrafiislam&theme=tokyonight" width="48%" />
 </p>
 
