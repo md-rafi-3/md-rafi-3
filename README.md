@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/B2GGsdpc/Black-and-White-Simple-Name-Linked-In-Article-Cover-Image.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/zhD6pyQt/Purple-and-Black-Futuristic-AI-Technology-Banner.png" alt="Banner" width="100%" />
 </p>
 
 <!-- ✨ Name & Designation -->
