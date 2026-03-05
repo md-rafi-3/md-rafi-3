@@ -126,11 +126,7 @@ const rafi = {
 
 # 🐍 Contribution Snake Animation
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/md-rafi-3/md-rafi-3/output/github-contribution-grid-snake.svg"/>
-
-</p>
+![snake gif](https://raw.githubusercontent.com/md-rafi-3/md-rafi-3/output/github-contribution-grid-snake.svg)>
 
 ---
 
