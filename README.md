@@ -77,47 +77,41 @@ const rafi = {
 ---
 
 
-<!-- GITHUB ACHIEVEMENTS -->
+
+<!-- 🏆 GITHUB TROPHIES -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-rafi-3&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=md-rafi-3&theme=algolia&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- 📊 GITHUB STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=md-rafi-3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=md-rafi-3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-rafi-3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats"/>
+---
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-rafi-3&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
+<!-- 📈 CONTRIBUTION GRAPH -->
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/md-rafi-3">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rafi-3&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=12" width="100%" alt="Contribution Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-rafi-3&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
 
-<!-- TOP LANGUAGES -->
+<!-- 🧠 TOP LANGUAGES -->
 <h2 align="center">🧠 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rafi-3&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="200" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-rafi-3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
 </p>
-
----
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
