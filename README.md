@@ -212,9 +212,6 @@ My personal portfolio showcasing my skills, projects and development journey.
 
 ---
 
-<p align="center">
-  <i>💻 Code. Learn. Build. Repeat.</i>
-</p>
 
 
 # 🐍 Contribution Snake Animation
